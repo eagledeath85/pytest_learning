@@ -1,6 +1,5 @@
 import pytest
 
-
 # Fixture that will run before test case
 # To declare it as a fixture, we use the @pytest.fixture() decorator
 # To execute it, we pass it as an argument to the test case we want to run
